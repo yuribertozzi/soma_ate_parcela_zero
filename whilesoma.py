@@ -1,6 +1,6 @@
 print()
 
-print("Digite uma sequência de valores quaisquer para somar, digite zero para parar e somar.")
+print("Digite uma sequência de valores quaisquer a se somarem, digite zero para parar e somar.")
 
 print()
 
